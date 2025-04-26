@@ -1,0 +1,167 @@
+js_orig
+--------------------------------
+
+model_id;8
+given_rating;8/10
+answer_ratings;[2,4,5,5,5,4,5,5,4,5,5,5,5,5,5,5,5,5,3,3,5,3,3,2,2,4]
+false_positives;[0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+
+model_id;16
+given_rating;6/10
+answer_ratings;[1,3,3,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4]
+false_positives;[1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1]
+
+model_id;18
+given_rating;4/10
+answer_ratings;[1,2,2,2,3,2,2,3,2,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2]
+false_positives;[0,1,1,1,0,1,1,0,1,0,0,1,0,1,1,1,1,1,0,2,0,1,1,1,1,5]
+
+model_id;21
+given_rating;8/10
+answer_ratings;[5,3.5,4,5,5,5,4,5,5,4,5,5,5,4,5,5,4,4,5,5,5,5,5,5,4]
+false_positives;[0,2,2,0,0,0,1,0,0,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2]
+
+
+
+js_flawed
+------------------------------
+
+model_id;1
+given_rating;8/10
+defects_identified;[
+      {"id": 1, "identified":  false},
+      {"id": 2, "identified":  false},
+      {"id": 3, "identified":  false},
+      {"id": 4, "identified":  false},
+      {"id": 5, "identified":  false},
+      {"id": 6, "identified":  false},
+      {"id": 7, "identified":  false},
+      {"id": 8, "identified":  false},
+      {"id": 9, "identified":  false},
+      {"id": 10, "identified":  false},
+      {"id": 11, "identified":  false},
+      {"id": 12, "identified":  false},
+      {"id": 13, "identified":  false}
+    ]
+answer_ratings;[5,3,3,3.5,5,4,4,5,4,4,5,5,5,5,5,3,5,3,4,5,4,5,5,5,3]
+false_positives;[0,1,1,2  ,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4]
+
+model_id;2
+given_rating;9/10
+defects_identified;[
+      {"id": 1, "identified":  false},
+      {"id": 2, "identified":  false},
+      {"id": 3, "identified":  false},
+      {"id": 4, "identified":  false},
+      {"id": 5, "identified":  false},
+      {"id": 6, "identified":  false},
+      {"id": 7, "identified":  false},
+      {"id": 8, "identified":  false},
+      {"id": 9, "identified":  false},
+      {"id": 10, "identified":  false},
+      {"id": 11, "identified":  false},
+      {"id": 12, "identified":  false},
+      {"id": 13, "identified":  false}
+    ]
+answer_ratings;[1,4,4,5,5,4,5,5,5,5,5,5,5,3,5,4,5,4,5,5,4,5,5,3,4]
+false_positives;[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+
+model_id;6
+given_rating;6/10
+defects_identified;[
+      {"id": 1, "identified":  true},
+      {"id": 2, "identified":  false},
+      {"id": 3, "identified":  true},
+      {"id": 4, "identified":  false},
+      {"id": 5, "identified":  false},
+      {"id": 6, "identified":  true},
+      {"id": 7, "identified":  false},
+      {"id": 8, "identified":  false},
+      {"id": 9, "identified":  false},
+      {"id": 10, "identified":  false},
+      {"id": 11, "identified":  true},
+      {"id": 12, "identified":  true},
+      {"id": 13, "identified":  true}
+    ]
+answer_ratings;[5,4,2,3,5,5,4,4.5,5,5,4,5,5,4,5,4,4,4,4.5,5,5,5,5,5,3]
+false_positives;[0,2,2,2,0,0,1,1  ,0,0,1,0,0,1,0,0,1,0,0  ,0,0,0,0,0,0]
+
+model_id;8
+given_rating;9.5/10
+defects_identified;[
+      {"id": 1, "identified":  false},
+      {"id": 2, "identified":  false},
+      {"id": 3, "identified":  false},
+      {"id": 4, "identified":  false},
+      {"id": 5, "identified":  false},
+      {"id": 6, "identified":  false},
+      {"id": 7, "identified":  false},
+      {"id": 8, "identified":  false},
+      {"id": 9, "identified":  false},
+      {"id": 10, "identified":  false},
+      {"id": 11, "identified":  false},
+      {"id": 12, "identified":  false},
+      {"id": 13, "identified":  false}
+    ]
+answer_ratings;[5,3,3,4,4,4,4,5,3,4,4,4,4,3,4,2,4,4,4,4,4,4,4,5,4]
+false_positives;[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+
+model_id;16
+given_rating;9/10
+defects_identified;[
+      {"id": 1, "identified":  false},
+      {"id": 2, "identified":  false},
+      {"id": 3, "identified":  false},
+      {"id": 4, "identified":  false},
+      {"id": 5, "identified":  false},
+      {"id": 6, "identified":  false},
+      {"id": 7, "identified":  false},
+      {"id": 8, "identified":  false},
+      {"id": 9, "identified":  false},
+      {"id": 10, "identified":  false},
+      {"id": 11, "identified":  true},
+      {"id": 12, "identified":  false},
+      {"id": 13, "identified":  false}
+    ]
+answer_ratings;[1,4,3,5,5,2,5,5,4,5,5,5,5,4,4,3,4,4,5,4,5,3,4,5,4]
+false_positives;[1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1]
+
+model_id;18
+given_rating;6/10
+defects_identified;[
+      {"id": 1, "identified":  false},
+      {"id": 2, "identified":  false},
+      {"id": 3, "identified":  false},
+      {"id": 4, "identified":  false},
+      {"id": 5, "identified":  false},
+      {"id": 6, "identified":  false},
+      {"id": 7, "identified":  false},
+      {"id": 8, "identified":  false},
+      {"id": 9, "identified":  false},
+      {"id": 10, "identified":  false},
+      {"id": 11, "identified":  false},
+      {"id": 12, "identified":  false},
+      {"id": 13, "identified":  false}
+    ]
+answer_ratings;[1,1,1,2,2,1,2,2,2,2,2,2,2,1,1,1,1,2,1,2,1,2,2,3,2]
+false_positives;[0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1]
+
+model_id;21
+given_rating;8/10
+defects_identified;[
+      {"id": 1, "identified":  true},
+      {"id": 2, "identified":  false},
+      {"id": 3, "identified":  false},
+      {"id": 4, "identified":  false},
+      {"id": 5, "identified":  false},
+      {"id": 6, "identified":  true},
+      {"id": 7, "identified":  true},
+      {"id": 8, "identified":  false},
+      {"id": 9, "identified":  false},
+      {"id": 10, "identified":  false},
+      {"id": 11, "identified":  true},
+      {"id": 12, "identified":  false},
+      {"id": 13, "identified":  true}
+    ]
+answer_ratings;[4,5,5,5,5,5,4,5,4,5,4,5,5,3,5,4,5,4,5,5,5,5,5,5,4]
+false_positives;[0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,3]
