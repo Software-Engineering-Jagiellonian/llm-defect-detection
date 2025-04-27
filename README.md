@@ -67,8 +67,8 @@ This dataset is designed for evaluating and training LLMs on code defect detecti
 
 ## Academic Research
 
-This repository is part of an academic research project investigating Large Language Models for static code analysis and defect detection. The main document is written in LaTeX following IEEE conference paper formatting.
+This repository is part of an academic research project investigating Large Language Models for static code analysis and defect detection conducted at Jagiellonian University, Poland.\
 The authors of the study are:
-Ewa Woźny (main contributor)
-Jarek Hryszko
-Adam Roman
+- Ewa Woźny (main contributor)
+- Jarek Hryszko (corresponding author -- jaroslaw dot hryszko at uj dot edu dot pl)
+- Adam Roman
