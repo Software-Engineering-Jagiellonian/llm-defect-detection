@@ -1,0 +1,62 @@
+{
+  "2": {
+    "total_entries": 37,
+    "bugs_identified": 14,
+    "bugs_identified_percent": 37.83783783783784,
+    "false_positives": 5,
+    "false_positives_percent": 13.513513513513514,
+    "purpose_identified": 37,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 4.405405405405405
+  },
+  "16": {
+    "total_entries": 37,
+    "bugs_identified": 15,
+    "bugs_identified_percent": 40.54054054054054,
+    "false_positives": 5,
+    "false_positives_percent": 13.513513513513514,
+    "purpose_identified": 37,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 4.45945945945946
+  },
+  "1": {
+    "total_entries": 37,
+    "bugs_identified": 15,
+    "bugs_identified_percent": 40.54054054054054,
+    "false_positives": 4,
+    "false_positives_percent": 10.81081081081081,
+    "purpose_identified": 37,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 4.54054054054054
+  },
+  "21": {
+    "total_entries": 37,
+    "bugs_identified": 16,
+    "bugs_identified_percent": 43.24324324324324,
+    "false_positives": 17,
+    "false_positives_percent": 45.94594594594595,
+    "purpose_identified": 37,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 3.7567567567567566
+  },
+  "8": {
+    "total_entries": 37,
+    "bugs_identified": 11,
+    "bugs_identified_percent": 29.72972972972973,
+    "false_positives": 7,
+    "false_positives_percent": 18.91891891891892,
+    "purpose_identified": 37,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 4.0
+  },
+  "6": {
+    "total_entries": 37,
+    "bugs_identified": 8,
+    "bugs_identified_percent": 21.62162162162162,
+    "false_positives": 4,
+    "false_positives_percent": 10.81081081081081,
+    "purpose_identified": 37,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 4.027027027027027
+  }
+}

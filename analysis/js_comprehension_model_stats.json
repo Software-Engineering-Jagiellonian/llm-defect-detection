@@ -1,0 +1,72 @@
+{
+  "6": {
+    "total_entries": 29,
+    "bugs_identified": 6,
+    "bugs_identified_percent": 20.689655172413794,
+    "false_positives": 9,
+    "false_positives_percent": 31.03448275862069,
+    "purpose_identified": 29,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 3.7241379310344827
+  },
+  "18": {
+    "total_entries": 29,
+    "bugs_identified": 9,
+    "bugs_identified_percent": 31.03448275862069,
+    "false_positives": 7,
+    "false_positives_percent": 24.137931034482758,
+    "purpose_identified": 29,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 3.4482758620689653
+  },
+  "8": {
+    "total_entries": 29,
+    "bugs_identified": 10,
+    "bugs_identified_percent": 34.48275862068966,
+    "false_positives": 3,
+    "false_positives_percent": 10.344827586206897,
+    "purpose_identified": 29,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 4.068965517241379
+  },
+  "1": {
+    "total_entries": 29,
+    "bugs_identified": 14,
+    "bugs_identified_percent": 48.275862068965516,
+    "false_positives": 8,
+    "false_positives_percent": 27.586206896551722,
+    "purpose_identified": 29,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 4.137931034482759
+  },
+  "21": {
+    "total_entries": 29,
+    "bugs_identified": 13,
+    "bugs_identified_percent": 44.827586206896555,
+    "false_positives": 4,
+    "false_positives_percent": 13.793103448275861,
+    "purpose_identified": 29,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 4.448275862068965
+  },
+  "2": {
+    "total_entries": 29,
+    "bugs_identified": 14,
+    "bugs_identified_percent": 48.275862068965516,
+    "false_positives": 5,
+    "false_positives_percent": 17.24137931034483,
+    "purpose_identified": 29,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 4.310344827586207
+  },
+  "16": {
+    "total_entries": 29,
+    "bugs_identified": 15,
+    "bugs_identified_percent": 51.724137931034484,
+    "false_positives": 4,
+    "false_positives_percent": 13.793103448275861,
+    "purpose_identified": 29,
+    "purpose_identified_percent": 100.0,
+    "avg_code_analysis_rating": 4.482758620689655
+  }
+}

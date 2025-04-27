@@ -1,0 +1,11 @@
+Based on the data in praca_mgr.tex, the model_id numbers appear to correspond to the following models:
+
+1: Probably Meta-Llama-3-70B
+2: Probably Mistral-7b-instruct-v0.2
+6: Probably Deepseek-coder-7b-instruct-v1.5
+8: Possibly Nous-Hermes-2-Mixtral-8x7B-DPO
+16: Possibly C4ai-command-r-plus
+18: Unknown (only in JS data)
+21: Probably Phi-3-medium-128k-instruct
+
+Note: This is an approximation based on patterns observed in the data and might not be exact.

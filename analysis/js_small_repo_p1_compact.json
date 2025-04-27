@@ -1,0 +1,2942 @@
+[
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": true
+      },
+      {
+        "id": 5,
+        "identified": true
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 1,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 2,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": true
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 3,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 4,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 5,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 2,
+    "question_id": 6,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 7,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": true
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 2.5,
+    "question_id": 8,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 9,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 2,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 10,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 2,
+    "question_id": 11,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 2,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 12,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 13,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 14,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 15,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 16,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 3,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 17,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 5,
+    "question_id": 1,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 2,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 5,
+    "question_id": 3,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 4,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 2,
+    "question_id": 5,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 6,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4.5,
+    "question_id": 7,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 8,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 5,
+    "question_id": 9,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 10,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4.5,
+    "question_id": 11,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 12,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 13,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 14,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 15,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 16,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 16,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 2,
+    "question_id": 17,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": true
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 1,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": true
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 4.5,
+    "question_id": 2,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": true
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 3,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 4,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": true
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 5,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 6,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 7,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": true
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 2,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 8,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 9,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 2,
+    "purpose_identified": true,
+    "code_analysis_rating": 2,
+    "question_id": 10,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": false,
+    "code_analysis_rating": 1,
+    "question_id": 11,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 2,
+    "question_id": 12,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": false,
+    "code_analysis_rating": 1,
+    "question_id": 13,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 14,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": false,
+    "code_analysis_rating": 1,
+    "question_id": 15,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": false,
+    "code_analysis_rating": 1,
+    "question_id": 16,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": true
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 17,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 5,
+    "question_id": 1,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 5,
+    "question_id": 2,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 5,
+    "question_id": 3,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 4,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 5,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 5,
+    "question_id": 6,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 5,
+    "question_id": 7,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 2,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 8,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 10,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 12,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": false,
+    "code_analysis_rating": 1,
+    "question_id": 13,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": false,
+    "code_analysis_rating": 1,
+    "question_id": 16,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 6,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 17,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": true
+      },
+      {
+        "id": 5,
+        "identified": true
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 1,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": true
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 2,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": true
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 3,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 2,
+    "purpose_identified": true,
+    "code_analysis_rating": 2,
+    "question_id": 4,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 5,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 6,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 7,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 8,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": true
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 9,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 10,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": false,
+    "code_analysis_rating": 1,
+    "question_id": 11,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 3,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 12,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 2,
+    "question_id": 13,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": false,
+    "code_analysis_rating": 1,
+    "question_id": 14,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 2.5,
+    "question_id": 15,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": true
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 16,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": true
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 17,
+    "dataset": "js_apps_flawed"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 1,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 4.5,
+    "question_id": 2,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 3,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 4,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 2,
+    "question_id": 5,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 6,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 7,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 8,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 5,
+    "question_id": 9,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 1,
+    "purpose_identified": true,
+    "code_analysis_rating": 3,
+    "question_id": 10,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": false,
+    "code_analysis_rating": 1,
+    "question_id": 11,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 5,
+    "question_id": 12,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 3.5,
+    "question_id": 13,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": false,
+    "code_analysis_rating": 1,
+    "question_id": 14,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 2,
+    "purpose_identified": true,
+    "code_analysis_rating": 1.5,
+    "question_id": 15,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 4,
+    "purpose_identified": true,
+    "code_analysis_rating": 1,
+    "question_id": 16,
+    "dataset": "js_apps_original"
+  },
+  {
+    "model_id": 18,
+    "bugs_identified": [
+      {
+        "id": 1,
+        "identified": false
+      },
+      {
+        "id": 2,
+        "identified": false
+      },
+      {
+        "id": 3,
+        "identified": false
+      },
+      {
+        "id": 4,
+        "identified": false
+      },
+      {
+        "id": 5,
+        "identified": false
+      }
+    ],
+    "false_positives": 0,
+    "purpose_identified": true,
+    "code_analysis_rating": 4,
+    "question_id": 17,
+    "dataset": "js_apps_original"
+  }
+]

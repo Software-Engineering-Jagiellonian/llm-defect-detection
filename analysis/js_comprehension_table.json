@@ -1,0 +1,51 @@
+[
+  {
+    "model_id": 6,
+    "total_entries": 29,
+    "bugs_identified_percent": 20.69,
+    "false_positives_percent": 31.03,
+    "avg_code_analysis_rating": 3.72
+  },
+  {
+    "model_id": 18,
+    "total_entries": 29,
+    "bugs_identified_percent": 31.03,
+    "false_positives_percent": 24.14,
+    "avg_code_analysis_rating": 3.45
+  },
+  {
+    "model_id": 8,
+    "total_entries": 29,
+    "bugs_identified_percent": 34.48,
+    "false_positives_percent": 10.34,
+    "avg_code_analysis_rating": 4.07
+  },
+  {
+    "model_id": 1,
+    "total_entries": 29,
+    "bugs_identified_percent": 48.28,
+    "false_positives_percent": 27.59,
+    "avg_code_analysis_rating": 4.14
+  },
+  {
+    "model_id": 21,
+    "total_entries": 29,
+    "bugs_identified_percent": 44.83,
+    "false_positives_percent": 13.79,
+    "avg_code_analysis_rating": 4.45
+  },
+  {
+    "model_id": 2,
+    "total_entries": 29,
+    "bugs_identified_percent": 48.28,
+    "false_positives_percent": 17.24,
+    "avg_code_analysis_rating": 4.31
+  },
+  {
+    "model_id": 16,
+    "total_entries": 29,
+    "bugs_identified_percent": 51.72,
+    "false_positives_percent": 13.79,
+    "avg_code_analysis_rating": 4.48
+  }
+]
