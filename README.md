@@ -14,6 +14,7 @@ llm-defect-detection/
 │   │   └── small_repo/     # Small codebase examples
 │   └── python/             # Python code examples (same structure)
 └── LICENSE
+└── README.md
 ```
 
 ## Dataset Description
